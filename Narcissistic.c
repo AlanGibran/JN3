@@ -30,8 +30,6 @@ int concat(int a, int b)
 
 
 
-
-
 int main(){
 	int array[] = {0, 9};
 	//'N' Potencia
