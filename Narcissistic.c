@@ -37,7 +37,6 @@ int main(){
 	double k = k0 + k1;
 	//Concatena dos enteros en orden [decenas, unidades] = double DU;
 	double concatenacion = concat(array[0], array[1]);
-
 	//Si la suma de potencias es igual al numero itself(concatenacion) es narciso.
 	if(k == concatenacion){
 		printf("Se cumplio la comparacion, es narciso: %.1f = %.1f\n", k, concatenacion);
