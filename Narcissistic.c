@@ -8,7 +8,6 @@ int concat(int a, int b)
  
     char s1[20];
     char s2[20];
- 
     // Convert both the integers to string
     sprintf(s1, "%d", a);
     sprintf(s2, "%d", b);
