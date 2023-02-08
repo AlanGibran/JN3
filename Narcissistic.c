@@ -2,7 +2,6 @@
 #include<math.h>
 #include<stdlib.h>
 #include<string.h>
-
 int concat(int a, int b)
 {
  
