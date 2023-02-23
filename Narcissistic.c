@@ -21,8 +21,6 @@ int concat(int a, int b)
     return c;
 }
 
-
-
 int main(){
 	int array[] = {0, 9};
 	//'N' Potencia
