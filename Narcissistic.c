@@ -44,6 +44,7 @@ int main(){
 	}
 //	printf("El número de elementos es: %u\n\n", num_elementos);
 	printf("El elemento array[0] es: %i \n\n", array[0]);
+	
 	printf("El elemento array[1]: %i \n\n", array[1]);
 /*	for(int i = 0; i < array[0]; i++){
 		printf("--------%d---------\n\n", i);	
