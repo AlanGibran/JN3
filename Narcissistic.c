@@ -13,6 +13,7 @@ int concat(int a, int b)
     // Concatenate both strings
     strcat(s1, s2);
  
+	
     // Convert the concatenated string
     // to integer
     int c = atoi(s1);
