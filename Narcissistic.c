@@ -25,6 +25,7 @@ int concat(int a, int b)
 int main(){
 	int array[] = {0, 9};
 	//'N' Potencia
+	
 //	int N = sizeof(array)/sizeof(array[0]);
 	int N = 1;
 	//Primer elemento a la N potencia
