@@ -13,7 +13,6 @@ int concat(int a, int b)
     // Concatenate both strings
     strcat(s1, s2);
  
-	
     // Convert the concatenated string
     // to integer
     int c = atoi(s1);
@@ -24,8 +23,7 @@ int concat(int a, int b)
 
 int main(){
 	int array[] = {0, 9};
-	//'N' Potencia
-	
+	//'N' Potencia	
 //	int N = sizeof(array)/sizeof(array[0]);
 	int N = 1;
 	//Primer elemento a la N potencia
