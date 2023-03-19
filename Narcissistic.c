@@ -20,7 +20,7 @@ int concat(int a, int b)
     // return the formed integer
     return c;
 }
-
+/*lol*/
 
 int main(){
 	int array[] = {0, 9};
