@@ -9,7 +9,6 @@ int concat(int a, int b)
     // Convert both the integers to string
     sprintf(s1, "%d", a);
     sprintf(s2, "%d", b);
- 
     // Concatenate both strings
     strcat(s1, s2);
  
