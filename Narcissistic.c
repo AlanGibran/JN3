@@ -21,7 +21,7 @@ int concat(int a, int b)
     return c;
 }
 
-//Happy birthday
+//blocked enen
 int main(){
 	int array[] = {0, 9};
 	//'N' Potencia	
