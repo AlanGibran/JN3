@@ -21,7 +21,7 @@ int concat(int a, int b)
     return c;
 }
 
-//blocked enen
+//ya debería borrar esto w
 int main(){
 	int array[] = {0, 9};
 	//'N' Potencia	
